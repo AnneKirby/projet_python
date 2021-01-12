@@ -19,6 +19,7 @@ The goal was to predict, based on 64 attributes of the finances of Polish compan
 
 The dataset is about bankruptcy prediction of Polish companies. The data was collected from Emerging Markets Information Service, which is a database containing information on emerging markets around the world. 
 The bankrupt companies were analyzed in the period 2000-2012, while the still operating companies were evaluated from 2007 to 2013.
+The dataset consists of 5 arff files, each corresponding to a year of observations.
 
 Attribute Information:
 
